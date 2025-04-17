@@ -307,6 +307,37 @@
               ]
             },
             {
+              "id": "23f38ecc-745b-4d17-b124-fba752a34ba4",
+              "tiles": [
+                {
+                  "id": "40cdc1e8-f6d2-4686-82a3-9704c9f6313b",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                },
+                {
+                  "id": "53aad2b2-8f1a-406e-9cb3-a932993b8c3f",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 24,
+                  "sliceY": 0,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                }
+              ]
+            },
+            {
               "id": "7d9c943c-843a-446b-b1df-3c8ec84951f8",
               "tiles": [
                 {
