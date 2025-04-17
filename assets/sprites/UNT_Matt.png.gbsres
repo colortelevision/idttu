@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "bbf2551a-ca26-436d-95ca-8536b2c96874",
+  "name": "UNT_Matt",
+  "symbol": "sprite_unt_matt",
+  "width": 27,
+  "height": 56,
+  "states": [
+    {
+      "id": "e7fb6af5-59ab-4c1f-97d2-b255451dbdd2",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "941b7145-e43c-43dd-a61c-83f9ee9a641a",
+          "frames": [
+            {
+              "id": "078149fe-1cf7-4d14-af65-c94956166b10",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1643d761-14a8-4990-889c-ffc89a1c806b",
+          "frames": [
+            {
+              "id": "39783f25-3e30-4525-81b0-d60231b75140",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ed868896-c0b5-4403-be1e-d6aeb5d8145a",
+          "frames": [
+            {
+              "id": "1147dcac-537d-4492-b690-e78c60d2ecab",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "09ff5abe-3406-4af7-81cb-6e14600b722f",
+          "frames": [
+            {
+              "id": "65720f29-3235-46ea-904b-5d717c77b020",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ab7b83b5-606b-4952-b195-58914a1a82e9",
+          "frames": [
+            {
+              "id": "fb24b502-6545-463e-8822-88d22363a8fa",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c68f37f4-6fdc-46f4-8482-7b2c177d9f69",
+          "frames": [
+            {
+              "id": "e41d3f6e-d19d-47c8-bf24-96c2e2aa5790",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2a29c9cd-3ca9-4b6e-ad80-06eb2526ab3f",
+          "frames": [
+            {
+              "id": "0258ae11-1cdc-4dad-9eac-c3204116fd83",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8943c8c4-5c30-45e6-8d78-21fb95cc6bdb",
+          "frames": [
+            {
+              "id": "11e76057-5265-42d3-8872-1966ec623851",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "UNT_Matt.png",
+  "checksum": "7d185aac6c7574428e4b1328818520c78311ac00"
+}

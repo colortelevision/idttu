@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "802614d3-012c-4dfb-8152-4abe66f4447f",
+  "name": "UNT_092422 pokemon style UNTITLED sprites 5",
+  "symbol": "sprite_unt_092422_pokemon_s",
+  "width": 160,
+  "height": 144,
+  "states": [
+    {
+      "id": "8ca18c9f-f329-4715-bf35-0297c17783af",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "97baa5ed-4fc6-4f4d-b8b1-3090f88ff4c3",
+          "frames": [
+            {
+              "id": "934fbaf5-cfd9-4b38-855b-b01ca1b669b3",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d7c63f58-27a7-4020-874d-67e148222d4a",
+          "frames": [
+            {
+              "id": "baadd00f-bbc1-47c0-b668-53d4ea62e3d0",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a449c24c-bffa-4b1e-b10c-99693ae0c7f5",
+          "frames": [
+            {
+              "id": "1c7455e5-d3ec-4af7-94fc-fb2b8a63ce7e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "23d6a474-9f58-40a1-ae0a-5be762775244",
+          "frames": [
+            {
+              "id": "06604bb2-f37a-48f2-8492-0f2f78347db5",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "29c26c10-93a0-4408-af2d-4e1ea52c3e3d",
+          "frames": [
+            {
+              "id": "ce2723f3-5e63-4ef3-b86d-b7782c45146e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d8868750-6bd4-4c85-b360-bf3c88fbe99d",
+          "frames": [
+            {
+              "id": "eec2a429-cc8e-4dda-9d59-f4e7748b8231",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "00fa3754-22a4-45c8-9f65-069b9137302c",
+          "frames": [
+            {
+              "id": "5e9e5fab-b158-4391-8732-2d60b517ff14",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "329dbd28-5cdd-42c9-b66c-6aeeac28e638",
+          "frames": [
+            {
+              "id": "577479dd-4f56-490a-99ca-48c860628d76",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "UNT_092422 pokemon style UNTITLED sprites 5.png",
+  "checksum": "4dfb241d796e65df001c61e074a093b16aa16c7e"
+}

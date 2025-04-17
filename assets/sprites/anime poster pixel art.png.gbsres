@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "26433793-71e0-402f-839e-ab1447bc6e55",
+  "name": "anime poster pixel art",
+  "symbol": "sprite_anime_poster_pixel_a",
+  "width": 94,
+  "height": 144,
+  "states": [
+    {
+      "id": "7834c6d4-ae27-4c6a-b121-6068e04e0e94",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "ca27a9d9-c424-43b7-871f-4de44aa80e7e",
+          "frames": [
+            {
+              "id": "2986667e-c62d-4493-a86e-b07911101a6d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "46525981-7c52-4ddd-afaf-6bd5bc179fe1",
+          "frames": [
+            {
+              "id": "a934b2e4-4f42-45ef-9658-161683039b89",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8ce933e6-eea6-4639-975b-6eceea4e73a7",
+          "frames": [
+            {
+              "id": "494d60ed-5697-4f41-bad8-8993c5be23d4",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "72fbf1ea-25e7-4474-9137-b58dadb6c053",
+          "frames": [
+            {
+              "id": "eaecaebd-f45a-4678-9fc3-6f6bee68b18e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9072910f-beb2-45c3-ba4d-9349549a932a",
+          "frames": [
+            {
+              "id": "8f3e7c7d-edf6-4939-9b57-344027bfd1b5",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3bbe1328-ed00-459e-979f-6647052dd10a",
+          "frames": [
+            {
+              "id": "d84a9081-36a1-4cf5-9815-de20604c73f7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1dcc64e5-9411-4ece-8712-90d0ab697f54",
+          "frames": [
+            {
+              "id": "3213b001-2f40-411f-8002-14a307fa1572",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a9af0c16-d71a-4d91-8d03-639cdc1b0314",
+          "frames": [
+            {
+              "id": "2b01742a-525e-4154-b713-59613cbe92c4",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "anime poster pixel art.png",
+  "checksum": "94a27c3b00072ff0397585026d67709590ced6c9"
+}

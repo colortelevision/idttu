@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "c3c60390-7207-4d26-a4da-8664652fdd2a",
+  "name": "VAPORWAVELANDSCAPE",
+  "symbol": "bg_vaporwavelandscape",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "tileColors": "",
+  "filename": "VAPORWAVELANDSCAPE.png",
+  "autoColor": true
+}

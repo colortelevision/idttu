@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "d2529fa5-626e-4fbf-bd1e-e5fae7fa15fc",
+  "name": "SD_230111 mu ninja spritesheet - Copy",
+  "symbol": "sprite_sd_mu_ninja_s_0",
+  "width": 144,
+  "height": 32,
+  "states": [
+    {
+      "id": "0c5dd91f-2600-422b-aa9b-4aa10d254af4",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "36c87b54-d8f4-4cc0-a984-68f332339642",
+          "frames": [
+            {
+              "id": "ee537a1f-2e1b-439e-b1a6-85e40709fbb4",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7ec231fc-b341-49bc-a5d0-ca6450db3821",
+          "frames": [
+            {
+              "id": "23460370-43a8-471a-b9f1-7b9b4ce431b4",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e89278d1-bc0f-4b46-b41d-ac10962a7776",
+          "frames": [
+            {
+              "id": "bf2e694f-5113-401a-9e1a-332a53850a75",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "560851d6-c708-4ef5-b570-167b6ba70eed",
+          "frames": [
+            {
+              "id": "492f57c5-8a99-471e-9342-59635d078ddc",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "daa0ae1f-9405-4403-bd7d-3b53f218ca2d",
+          "frames": [
+            {
+              "id": "a51d7807-bd1a-4aab-980a-4a22f4f64396",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0bb0285c-a796-4e4a-96f6-84edaddedfb5",
+          "frames": [
+            {
+              "id": "73dac16c-97c2-4155-8d85-89a10c9533c7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a71f9a55-9fc8-4cd2-b25e-c794b8ca2324",
+          "frames": [
+            {
+              "id": "d464c978-f8f9-4fb3-b3bb-b31693d8e7f4",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "dc1b942f-db62-4c69-bc38-6cbbfc21b9ff",
+          "frames": [
+            {
+              "id": "543ebfc9-cd7e-4f29-9798-81c7e6cc5c29",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "SD_230111 mu ninja spritesheet - Copy.png",
+  "checksum": "f3f860e88667ebceb44b83136c95b26220e89837"
+}

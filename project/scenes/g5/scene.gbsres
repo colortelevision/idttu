@@ -1,0 +1,22 @@
+{
+  "_resourceType": "scene",
+  "id": "f621c192-afca-46f7-a6bb-1aeeb63baf4d",
+  "_index": 10,
+  "name": "G5",
+  "backgroundId": "83cda29e-f4f8-44bf-84cd-5b203ebf351d",
+  "tilesetId": "",
+  "width": 210,
+  "height": 18,
+  "type": "TOPDOWN",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "00ec4+",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_11",
+  "x": 60,
+  "y": 1064,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}

@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "6efa7762-4c5b-4052-b8d2-3653bac00384",
+  "name": "BRIDGEGB",
+  "symbol": "bg_bridgegb",
+  "width": 64,
+  "height": 64,
+  "imageWidth": 512,
+  "imageHeight": 512,
+  "tileColors": "",
+  "filename": "BRIDGEGB.png"
+}

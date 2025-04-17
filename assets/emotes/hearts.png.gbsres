@@ -1,0 +1,9 @@
+{
+  "_resourceType": "emote",
+  "id": "f72d0c4a-52e5-4e00-a17a-3a77612a8452",
+  "name": "hearts",
+  "symbol": "emote_hearts",
+  "width": 16,
+  "height": 16,
+  "filename": "hearts.png"
+}

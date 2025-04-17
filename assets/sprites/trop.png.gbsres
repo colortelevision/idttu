@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "d1851d14-be93-49b3-bd7b-b0566db5e8c9",
+  "name": "trop",
+  "symbol": "sprite_trop",
+  "width": 24,
+  "height": 24,
+  "states": [
+    {
+      "id": "89d30ef7-13d7-408f-b9b2-81595cf24e7b",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "b66d28fe-4157-43b9-94ca-258480dd29af",
+          "frames": [
+            {
+              "id": "5cff34d8-62f6-4636-90d6-8a3fde2b273c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3beb0f70-d129-447f-a6d9-e21038e33fa0",
+          "frames": [
+            {
+              "id": "5c6649e8-7d3e-400e-a465-c52628e51b75",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "52c19750-0b49-42a9-9179-1710aa0fc5d3",
+          "frames": [
+            {
+              "id": "ffb562e8-629b-47c3-98ff-68168a4bf5dd",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9298b67f-d1d3-47f4-b231-912a5dad170a",
+          "frames": [
+            {
+              "id": "c7fb0058-2cee-4007-9683-2bb9fd29bb75",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "540b66a2-026c-499c-9e6b-42571c7c3bbe",
+          "frames": [
+            {
+              "id": "8dfc59f7-dd19-4b5c-adf1-46c033b956f6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1de988cf-5cf1-4ed6-936b-df257a05862c",
+          "frames": [
+            {
+              "id": "5158ac93-7001-4b10-b571-d93b63fe6780",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "100f73df-2595-4ec2-a90c-bb99979d2046",
+          "frames": [
+            {
+              "id": "8174799b-7d8d-4318-a79c-ca2c327c4c6c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0d64c578-cff3-4815-abe1-0b091b5187b1",
+          "frames": [
+            {
+              "id": "a584c688-e330-409d-82ad-f41e67bb946f",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "trop.png",
+  "checksum": "7ff947b517c70cc860639ec69d63e6b77a259d03"
+}

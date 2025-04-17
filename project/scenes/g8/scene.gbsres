@@ -1,0 +1,22 @@
+{
+  "_resourceType": "scene",
+  "id": "993d560d-c2e8-4cd0-a9eb-1d62ae9ac9dc",
+  "_index": 11,
+  "name": "G8",
+  "backgroundId": "15002351-baca-4b7e-a584-53f6a708ddc9",
+  "tilesetId": "",
+  "width": 80,
+  "height": 80,
+  "type": "TOPDOWN",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "001900+",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_12",
+  "x": 1552,
+  "y": 320,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}

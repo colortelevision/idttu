@@ -1,0 +1,9 @@
+{
+  "_resourceType": "emote",
+  "id": "9ab4bdf1-3c55-488b-b9ca-202f4fe41622",
+  "name": "angry",
+  "symbol": "emote_angry",
+  "width": 16,
+  "height": 16,
+  "filename": "angry.png"
+}
