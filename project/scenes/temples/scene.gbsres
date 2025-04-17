@@ -1,0 +1,22 @@
+{
+  "_resourceType": "scene",
+  "id": "7a4b6107-b2e9-4598-823e-0a0fb9e33f76",
+  "_index": 12,
+  "name": "TEMPLES",
+  "backgroundId": "6ac38bbb-1aaa-42b5-848e-ab4a31b82b6b",
+  "tilesetId": "",
+  "width": 60,
+  "height": 24,
+  "type": "TOPDOWN",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "005a0+",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_13",
+  "x": 224,
+  "y": 432,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}

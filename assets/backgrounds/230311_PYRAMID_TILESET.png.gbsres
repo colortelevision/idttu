@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "33eec3f2-0562-4a05-96b6-582d8b2e0634",
+  "name": "230311_PYRAMID_TILESET",
+  "symbol": "bg_230311_pyramid_tileset",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "tileColors": "",
+  "filename": "230311_PYRAMID_TILESET.png"
+}

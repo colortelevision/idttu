@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "6bf1d903-5c92-47bd-93ad-66eae6e5a159",
+  "name": "UNT_Ami PKMN style",
+  "symbol": "sprite_unt_ami_pkmn_style",
+  "width": 34,
+  "height": 53,
+  "states": [
+    {
+      "id": "7bc60ed6-f1af-4914-aa9c-f6068fb5cfb6",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "e48641b2-f30e-4cc2-8272-e0c2af9e4d56",
+          "frames": [
+            {
+              "id": "e348e39b-e9c3-4e5e-9e83-5cd807d3ae9e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "badd9a36-a9c2-45d4-b398-51425f875ab6",
+          "frames": [
+            {
+              "id": "80c505fd-ed01-47b8-a499-bce9baabeef6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9b494e0b-5871-4a95-8975-f5b5d90ad25e",
+          "frames": [
+            {
+              "id": "1c0a6594-bcb8-4397-ac9f-dd45be9457b1",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1988b413-4c2b-48e2-8663-0cce626e9a91",
+          "frames": [
+            {
+              "id": "418ad0a7-e994-4719-9bb7-f5316513cf34",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "aa8e36ef-e8d0-41c0-8603-d21ff47d7682",
+          "frames": [
+            {
+              "id": "4fa26973-1876-4fc4-9eb6-9d6a646c4408",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "be4f91eb-5f7e-4a12-b493-8ffcb34f6d2f",
+          "frames": [
+            {
+              "id": "e99551e2-75a7-4983-bb96-18e031e8d729",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c406952e-cd83-4e8c-8819-a66f659d0b8e",
+          "frames": [
+            {
+              "id": "2d14edb1-9bee-4209-9759-60e7682a4611",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b9ef508e-e921-4c7a-a4a2-5b3a6163b335",
+          "frames": [
+            {
+              "id": "0f3e17cc-0b49-40d7-aa95-490121733de8",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "UNT_Ami PKMN style.png",
+  "checksum": "73d11a810a6493cb664406e9b3e1f5d9f5c26df1"
+}

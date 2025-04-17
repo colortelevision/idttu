@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "8cd32ce5-bdcf-4ad1-ab56-b32d2530eaf4",
+  "name": "cow pixel",
+  "symbol": "sprite_cow_pixel",
+  "width": 32,
+  "height": 32,
+  "states": [
+    {
+      "id": "07e8e161-9e4b-4be5-bd99-288724c65c2a",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "3c6e12dc-70ef-445d-945d-e7df5e445dc9",
+          "frames": [
+            {
+              "id": "b54702a3-2859-45a9-a841-54a1f92112ae",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "702fc788-124a-4791-8843-c846698f1663",
+          "frames": [
+            {
+              "id": "4cd4a39a-36fa-4894-a199-267b6e228bb6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e6b9047e-e815-4eb6-b475-4aaff54a896f",
+          "frames": [
+            {
+              "id": "491b461d-86a3-44a8-8e85-0060d8502570",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "bdfd31f0-9025-4f72-ac6c-4fd38ad20a49",
+          "frames": [
+            {
+              "id": "2659599f-8f6e-4f1f-b9b4-0fb488003c87",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "14743390-5c68-4cfd-91b2-a97b97f0a85a",
+          "frames": [
+            {
+              "id": "515dcdeb-b977-4538-950c-aead192c3251",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5e47b84e-ae44-410e-954a-87cfdf872e91",
+          "frames": [
+            {
+              "id": "a6dd4055-284b-4b9a-81b6-1fa3799708de",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e108ab1b-4cb6-4c82-8be0-f866eb09611b",
+          "frames": [
+            {
+              "id": "2051ed50-7a83-4939-9dda-245aee20fb32",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d9bccfdf-4684-48c5-9531-9615f2b7ba42",
+          "frames": [
+            {
+              "id": "128a7f99-5e43-4ade-8b77-7880175000b4",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "cow pixel.png",
+  "checksum": "4e55a1ea7c680c0fa7f82b0b0f487e317fa1c9f5"
+}

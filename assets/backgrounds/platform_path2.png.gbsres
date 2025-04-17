@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "d33e3850-f432-4f9b-a533-8044143be036",
+  "name": "platform_path2",
+  "symbol": "bg_platform_path2",
+  "width": 161,
+  "height": 18,
+  "imageWidth": 1288,
+  "imageHeight": 144,
+  "tileColors": "",
+  "filename": "platform_path2.png"
+}

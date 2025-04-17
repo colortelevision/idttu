@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "17f9f44f-6810-4491-929b-eb14f0af4a22",
+  "name": "230317_GLITCHPLAT",
+  "symbol": "bg_230317_glitchplat",
+  "width": 64,
+  "height": 18,
+  "imageWidth": 512,
+  "imageHeight": 144,
+  "tileColors": "",
+  "filename": "230317_GLITCHPLAT.png",
+  "autoColor": true
+}

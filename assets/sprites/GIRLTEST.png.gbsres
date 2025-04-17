@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "a774828d-7539-4ced-a2b4-524be53cdb69",
+  "name": "GIRLTEST",
+  "symbol": "sprite_girltest",
+  "width": 64,
+  "height": 96,
+  "states": [
+    {
+      "id": "7ab83ebf-084f-4b4f-85bf-713be4b8ade9",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "e931aea2-8062-439d-bcdd-0a9c3951c043",
+          "frames": [
+            {
+              "id": "7f21060b-5d19-40a4-8f1f-36d0b5d64e4d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c883e64a-2a39-4fb8-bbc6-5a1ec1058ba4",
+          "frames": [
+            {
+              "id": "b47bdafd-f6ab-4c34-bb51-18b6011f6ab3",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ac10690d-16b3-4a32-85e5-e9ec463abe10",
+          "frames": [
+            {
+              "id": "7ef6cfc2-a956-4658-811a-b33503a2a935",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ede01f23-c35d-40a5-baa3-513b1ba21b99",
+          "frames": [
+            {
+              "id": "ddc5fec8-fdd7-4b3f-bdda-9ab56c0c30c6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f55cfb6e-125a-43c0-bfe0-60bdba16032d",
+          "frames": [
+            {
+              "id": "96881fb6-30bd-4802-b918-5fa5c51fa8fc",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7b028a26-ae2f-4c81-9c59-f0a596e74a67",
+          "frames": [
+            {
+              "id": "24433e66-5bf9-49ef-aaf2-1e7f8b1658ba",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0411840e-25d4-4889-be62-58197db131d6",
+          "frames": [
+            {
+              "id": "88f89309-9650-4a7e-a688-2fd076f2c08a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "973f26f8-3076-4eb4-a720-c6b248321dec",
+          "frames": [
+            {
+              "id": "66a96da2-cd73-4dac-ba2b-ab5123c87ee9",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "GIRLTEST.png",
+  "checksum": "8bce18c4944569cb9233271dcecc9364737409f0"
+}

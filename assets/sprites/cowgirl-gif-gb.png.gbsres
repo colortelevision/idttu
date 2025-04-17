@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "b1216c2b-ef7a-4d09-8b5e-b84f72bc84d9",
+  "name": "cowgirl-gif-gb",
+  "symbol": "sprite_cowgirl_gif_gb",
+  "width": 96,
+  "height": 96,
+  "states": [
+    {
+      "id": "eebe2878-db4f-4cde-a28b-2bd2beb39f5b",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "2410b4c8-1294-43f8-8b10-778c5323b772",
+          "frames": [
+            {
+              "id": "113ed337-23ec-45b1-977f-69833d767d9e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0d586a7f-eaee-41d4-ac31-101e8bf56366",
+          "frames": [
+            {
+              "id": "52db2623-1834-4c87-a0c5-c12806f06adc",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "fd58869a-0a73-4487-a5dc-5be666cccdb4",
+          "frames": [
+            {
+              "id": "b84e5559-e54f-4b7c-b762-2dd46ebcabc8",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e16ab147-03c2-400b-b463-091bf6ca2e74",
+          "frames": [
+            {
+              "id": "826de6d8-436f-44e9-8953-dc4c362283dd",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8fbe2c8e-b66b-4603-80d6-c13d8c031a3e",
+          "frames": [
+            {
+              "id": "718ee728-c335-4f4c-9988-2b58e51949c0",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "58bc036e-2c4b-4592-ae53-6a7bf5a707ec",
+          "frames": [
+            {
+              "id": "c7b700e9-b700-4b23-a575-3c3b46060051",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "6039aaa3-bf5e-46b9-bdde-81389c613844",
+          "frames": [
+            {
+              "id": "5c9cf907-6374-4772-aa05-56223ba8dfbd",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2010a224-d009-46a8-81c3-49d75b6577ad",
+          "frames": [
+            {
+              "id": "b7f96ff8-7d3f-4232-af30-fd99f46ee446",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "cowgirl-gif-gb.png",
+  "checksum": "0b6f031cb19860b892ec7160b0aeb49e9d06f3ff"
+}

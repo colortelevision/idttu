@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "82bce491-49b1-4f00-ad60-02b394dfb702",
+  "name": "101022 Amy game 8bit sprite sheet",
+  "symbol": "sprite_101022_amy_game_8bit",
+  "width": 110,
+  "height": 279,
+  "states": [
+    {
+      "id": "e0b59c35-3acc-4e98-a710-15db4f17e081",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "1ef4da28-399e-420d-ae61-8c3425aa0090",
+          "frames": [
+            {
+              "id": "60ed8727-7bf4-4e8e-86d2-a256fdbb0e05",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "27f8d3fe-3d93-4772-b0b7-ce7d1860f1fd",
+          "frames": [
+            {
+              "id": "7a4fc5d0-f6b7-41de-a487-c46082f77272",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "032de32e-8772-44d3-99d7-fd8b94b9951d",
+          "frames": [
+            {
+              "id": "aaa83c1a-45c5-4a1a-aa6a-b9857cdca401",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "80305028-7435-47d5-94c1-47072b4fc8bd",
+          "frames": [
+            {
+              "id": "14c340cf-38eb-4a11-a9fb-35b2209c10e7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "4d3bd84d-8413-490b-a271-1c7e379d5272",
+          "frames": [
+            {
+              "id": "9a2c2275-5b30-4391-9023-a915fb02a1d3",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "fa14b7be-5fdf-4589-9eba-6dea4e009988",
+          "frames": [
+            {
+              "id": "306467d6-6bb8-4457-a23b-f8221a34a943",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f6f4f9f8-3a60-4867-8bdf-5449c1fcd9f3",
+          "frames": [
+            {
+              "id": "cb316760-1dc7-4017-a6eb-c3dee03bb12a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3049d8db-23e9-4bd7-8373-e5a6591bd5ca",
+          "frames": [
+            {
+              "id": "8da1b678-2f78-4964-a758-98d3f634b784",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "101022 Amy game 8bit sprite sheet.png",
+  "checksum": "682fac60fc123fa1561dc4d49a8a2aafe43eb250"
+}

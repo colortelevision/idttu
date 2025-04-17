@@ -1,0 +1,158 @@
+{
+  "_resourceType": "sprite",
+  "id": "ddb8ba6c-a07f-44d9-82a7-1da9e7b10cfe",
+  "name": "sword",
+  "symbol": "sprite_sword",
+  "width": 32,
+  "height": 16,
+  "states": [
+    {
+      "id": "b77ce3e8-7410-41ba-8bb8-6d4597a5ee2c",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "d5a6514b-a1c1-4301-b0e9-6ef3fbe36832",
+          "frames": [
+            {
+              "id": "af59af1f-25e1-4d1e-8f4f-70ad27c3ed15",
+              "tiles": [
+                {
+                  "id": "29efadd3-0c56-4eee-95cb-ea6f60a12e08",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "78e7fab7-9253-441d-89a9-e813bd92ef80",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            },
+            {
+              "id": "72f85fd0-ab93-4be6-b8cd-02212a921368",
+              "tiles": [
+                {
+                  "id": "7829270c-7863-4db5-8c3e-f6032a21e706",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 16,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "8a520aae-1b39-40c7-97c8-be6169cd111b",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 24,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "69963b8e-0582-457b-95f6-1e7faf3fd4a6",
+          "frames": [
+            {
+              "id": "7e5c5fb7-a871-4d57-bc3d-8a9055364f69",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c55a6a7d-1d5e-4fdf-964e-b28ac50f2c62",
+          "frames": [
+            {
+              "id": "0e9dc357-1aa8-47a1-bb0b-b1fd0fe15398",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ae99a9c6-f2ee-466c-b43d-e29f8d9808b2",
+          "frames": [
+            {
+              "id": "e97676e0-5ccd-4f6f-bc2a-2435eab6116e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "862d3c6c-7d2a-4dcf-9b78-f1ac0f397315",
+          "frames": [
+            {
+              "id": "06fc53a0-f7f8-4794-ab02-ed5cd7354fbb",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "611ce0ac-ec39-4154-92ed-0dc36a0beda7",
+          "frames": [
+            {
+              "id": "b4b99ffe-f088-4301-adb3-1f1259da8950",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "60f2b1c3-19f1-4c12-a035-cc83b9125c29",
+          "frames": [
+            {
+              "id": "866e6c3b-21b0-4c28-b16a-a9a834dd2875",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f24ac0e0-ec4d-4506-ac43-82a1c3b70326",
+          "frames": [
+            {
+              "id": "de89fd34-0576-44da-aeda-93416fc13208",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 4,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "sword.png",
+  "checksum": "cce70fe59cd21483251fb5c384db099e09792ca1"
+}

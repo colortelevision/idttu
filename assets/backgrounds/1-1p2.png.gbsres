@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "5a6ad5d7-f32f-4665-b649-d48e2f269b15",
+  "name": "1-1p2",
+  "symbol": "bg_1_1p2",
+  "width": 255,
+  "height": 20,
+  "imageWidth": 2040,
+  "imageHeight": 160,
+  "tileColors": "",
+  "filename": "1-1p2.png",
+  "autoColor": true
+}

@@ -1,0 +1,22 @@
+{
+  "_resourceType": "scene",
+  "id": "cc113df5-97fd-4b5c-bb58-63a7b0c895ef",
+  "_index": 6,
+  "name": "TOWN",
+  "backgroundId": "05b02c6f-28e5-40fd-b939-cbe7b8c61911",
+  "tilesetId": "",
+  "width": 120,
+  "height": 108,
+  "type": "TOPDOWN",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "0032a0+",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_7",
+  "x": 64,
+  "y": 1432,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}

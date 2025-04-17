@@ -1,0 +1,22 @@
+{
+  "_resourceType": "scene",
+  "id": "4455ddb2-f3f5-46ea-ba07-cabac7983e0b",
+  "_index": 13,
+  "name": "G3",
+  "backgroundId": "d33e3850-f432-4f9b-a533-8044143be036",
+  "tilesetId": "",
+  "width": 161,
+  "height": 18,
+  "type": "TOPDOWN",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "00b52+",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_14",
+  "x": 60,
+  "y": 896,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}

@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "f7e75de1-63c4-4a33-bb97-3274162cfec3",
+  "name": "lobby tcg",
+  "symbol": "bg_lobby_tcg",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "tileColors": "",
+  "filename": "lobby tcg.png",
+  "autoColor": true
+}

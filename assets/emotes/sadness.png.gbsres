@@ -1,0 +1,9 @@
+{
+  "_resourceType": "emote",
+  "id": "dd44eb01-18dd-441b-811b-833a4a675ded",
+  "name": "sadness",
+  "symbol": "emote_sadness",
+  "width": 16,
+  "height": 16,
+  "filename": "sadness.png"
+}

@@ -1,0 +1,158 @@
+{
+  "_resourceType": "sprite",
+  "id": "4a9061a2-f4b0-478c-8679-ea19ef7a063f",
+  "name": "checkbox",
+  "symbol": "sprite_checkbox",
+  "width": 32,
+  "height": 16,
+  "states": [
+    {
+      "id": "7c00fd80-dc73-4c95-b332-68e5255c328e",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "0a457992-a9e7-4522-b09f-0a56eecb70ba",
+          "frames": [
+            {
+              "id": "68024be6-316f-4e68-8cb0-6797389cc6c5",
+              "tiles": [
+                {
+                  "id": "470e23c0-42f2-4e45-a513-990730e9147f",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "999971bc-4eaf-45ff-8fd9-d8c9ce131544",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            },
+            {
+              "id": "b59c8f7c-7f3b-4dcb-bf5e-caec4e8c723b",
+              "tiles": [
+                {
+                  "id": "22ef80a1-d0b6-4ac2-a8a5-178c11959e92",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 16,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "cad8a08e-3dbc-4e02-91d2-59b929079d0c",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 24,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "b4cb647e-6e88-4518-bc51-c4f2133fa03f",
+          "frames": [
+            {
+              "id": "3c728448-b77d-4c32-bdaf-20086f5a5f34",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1a3e2610-a984-4c67-ad7a-88877ff11582",
+          "frames": [
+            {
+              "id": "86f49377-94a4-49cf-a1c4-26924b31fe6b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "77e9f817-af9b-44b8-8339-a3de46e460d7",
+          "frames": [
+            {
+              "id": "d031b440-15d2-4a55-a61c-abfdea7f0906",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9f01dc38-f341-48d7-bcfd-dfada28528ac",
+          "frames": [
+            {
+              "id": "ca127e2b-027f-441a-9710-39759b1f6e06",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "80c93ba2-6f5e-4f19-8df4-5f20d1e3348f",
+          "frames": [
+            {
+              "id": "5b1a558a-6775-442a-96b4-242dc9c02022",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "4fe1261e-9b7f-40b5-8e95-4a361542151a",
+          "frames": [
+            {
+              "id": "7cf82d16-42cc-40ae-8c0e-9105607bb66f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "31c2cb74-9380-4d7d-93ff-7b34bd291b01",
+          "frames": [
+            {
+              "id": "26bfb75a-50af-41cf-a507-6c0a4793077f",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 2,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "checkbox.png",
+  "checksum": "e0de60a8f904a122b16d8b7f94721e789193b6f9"
+}
