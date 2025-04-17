@@ -7,7 +7,7 @@
   "startAnimSpeed": 15,
   "startDirection": "down",
   "showCollisionExtraTiles": false,
-  "collisionLayerOpacity": 50,
+  "collisionLayerOpacity": 70,
   "sgbEnabled": false,
   "customHead": "",
   "defaultBackgroundPaletteIds": [

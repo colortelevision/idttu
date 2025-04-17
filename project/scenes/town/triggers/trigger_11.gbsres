@@ -1,0 +1,15 @@
+{
+  "_resourceType": "trigger",
+  "id": "be03ca82-c3fc-4400-ab3d-bfbfb1e41034",
+  "name": "",
+  "prefabId": "",
+  "x": 18,
+  "y": 46,
+  "symbol": "trigger_27",
+  "prefabScriptOverrides": {},
+  "width": 2,
+  "height": 1,
+  "script": [],
+  "leaveScript": [],
+  "_index": 10
+}
