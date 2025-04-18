@@ -3,7 +3,43 @@
   "engineFieldValues": [
     {
       "id": "fade_style",
-      "value": 0
+      "value": 1
+    },
+    {
+      "id": "plat_run_vel",
+      "value": 12101
+    },
+    {
+      "id": "plat_climb_vel",
+      "value": 4506
+    },
+    {
+      "id": "plat_walk_acc",
+      "value": 180
+    },
+    {
+      "id": "plat_run_acc",
+      "value": 281
+    },
+    {
+      "id": "plat_dec",
+      "value": 288
+    },
+    {
+      "id": "plat_jump_vel",
+      "value": 17947
+    },
+    {
+      "id": "plat_grav",
+      "value": 1285
+    },
+    {
+      "id": "plat_hold_grav",
+      "value": 3072
+    },
+    {
+      "id": "plat_max_fall_vel",
+      "value": 23610
     }
   ]
 }

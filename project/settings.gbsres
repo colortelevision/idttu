@@ -11,24 +11,24 @@
   "sgbEnabled": false,
   "customHead": "",
   "defaultBackgroundPaletteIds": [
-    "default-bg-1",
-    "default-bg-2",
-    "default-bg-3",
     "default-bg-4",
-    "default-bg-5",
+    "default-sprite",
     "default-bg-6",
-    "dmg",
-    "default-ui"
+    "dfb03399-454e-44a2-a116-4dddedb32f82",
+    "default-bg-5",
+    "default-bg-1",
+    "default-ui",
+    "default-bg-3"
   ],
   "defaultSpritePaletteIds": [
+    "dfb03399-454e-44a2-a116-4dddedb32f82",
+    "default-bg-1",
+    "default-bg-2",
+    "default-ui",
     "default-sprite",
-    "default-sprite",
-    "default-sprite",
-    "default-sprite",
-    "default-sprite",
-    "default-sprite",
-    "default-sprite",
-    "default-sprite"
+    "default-bg-6",
+    "default-bg-5",
+    "default-bg-4"
   ],
   "defaultSpritePaletteId": "default-sprite",
   "defaultUIPaletteId": "default-ui",
@@ -36,12 +36,12 @@
   "defaultFontId": "4bd653f0-e08d-424e-9e5b-c1f3aaa21e47",
   "defaultCharacterEncoding": "",
   "defaultPlayerSprites": {
-    "TOPDOWN": "581d34d0-9591-4e6e-a609-1d94f203b0cd",
-    "PLATFORM": "581d34d0-9591-4e6e-a609-1d94f203b0cd",
-    "ADVENTURE": "581d34d0-9591-4e6e-a609-1d94f203b0cd",
-    "SHMUP": "581d34d0-9591-4e6e-a609-1d94f203b0cd",
-    "POINTNCLICK": "581d34d0-9591-4e6e-a609-1d94f203b0cd",
-    "LOGO": "581d34d0-9591-4e6e-a609-1d94f203b0cd"
+    "TOPDOWN": "64ed9389-23cb-4d56-a695-507570c7a9e8",
+    "PLATFORM": "82bce491-49b1-4f00-ad60-02b394dfb702",
+    "ADVENTURE": "14953d3d-ac23-4c3c-9d69-26f86a4431b5",
+    "SHMUP": "966b55b1-43ed-4de2-a816-d12872c034df",
+    "POINTNCLICK": "816b1fd6-86e4-4dce-80ae-8967896d9be3",
+    "LOGO": "9e298fc0-456b-463e-9a67-5d8ec8d7e169"
   },
   "musicDriver": "huge",
   "cartType": "mbc5",

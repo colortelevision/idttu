@@ -15,7 +15,25 @@
   "symbol": "scene_1",
   "x": 264,
   "y": 30,
-  "script": [],
+  "script": [
+    {
+      "command": "EVENT_SWITCH_SCENE",
+      "args": {
+        "sceneId": "9ecf2648-d989-4aba-84d4-45fb1f465a80",
+        "x": {
+          "type": "number",
+          "value": 17
+        },
+        "y": {
+          "type": "number",
+          "value": 0
+        },
+        "direction": "",
+        "fadeSpeed": "2"
+      },
+      "id": "90e5c603-9163-414c-86ac-9b8a1b898c4c"
+    }
+  ],
   "playerHit1Script": [],
   "playerHit2Script": [],
   "playerHit3Script": []

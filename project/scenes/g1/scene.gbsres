@@ -13,9 +13,27 @@
   "collisions": "0f28+0010+0f10+0010+0f10+0010+0f10+0010+0f10+0010+0f10+0010+0fa+001c+0f4+001c+0f4+001c+0f4+008+0fc+008+0f2+001f+0f!0080+0fa+00c+0f10+0018+0f8+0018+0f8+0018+0f8+0018+0f8+0018+0f42+",
   "autoFadeSpeed": 1,
   "symbol": "scene_6",
-  "x": 176,
-  "y": 680,
-  "script": [],
+  "x": 456,
+  "y": 160,
+  "script": [
+    {
+      "command": "EVENT_SWITCH_SCENE",
+      "args": {
+        "sceneId": "8d321cd8-09fa-478a-9939-f28a9c532a4c",
+        "x": {
+          "type": "number",
+          "value": 21
+        },
+        "y": {
+          "type": "number",
+          "value": 5
+        },
+        "direction": "",
+        "fadeSpeed": "2"
+      },
+      "id": "e3d380a1-2ec4-4c70-b795-aad2b0c3ce7a"
+    }
+  ],
   "playerHit1Script": [],
   "playerHit2Script": [],
   "playerHit3Script": []
