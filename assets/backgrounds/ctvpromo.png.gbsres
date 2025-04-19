@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "dc2925f1-17ed-4f39-abd3-54d893581867",
+  "name": "ctvpromo",
+  "symbol": "bg_ctvpromo",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "tileColors": "",
+  "filename": "ctvpromo.png"
+}
