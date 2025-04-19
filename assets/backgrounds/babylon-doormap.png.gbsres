@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "45d1598f-7da9-4e9c-8d27-4c88c66375f9",
+  "name": "babylon-doormap",
+  "symbol": "bg_babylon_doormap",
+  "width": 64,
+  "height": 18,
+  "imageWidth": 512,
+  "imageHeight": 144,
+  "tileColors": "",
+  "filename": "babylon-doormap.png"
+}
