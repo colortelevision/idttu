@@ -27,11 +27,11 @@
     },
     {
       "id": "plat_jump_vel",
-      "value": 17947
+      "value": 24848
     },
     {
       "id": "plat_grav",
-      "value": 1285
+      "value": 1148
     },
     {
       "id": "plat_hold_grav",
@@ -39,7 +39,7 @@
     },
     {
       "id": "plat_max_fall_vel",
-      "value": 23610
+      "value": 19183
     }
   ]
 }

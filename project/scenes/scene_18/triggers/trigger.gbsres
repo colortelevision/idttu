@@ -18,7 +18,8 @@
           "a"
         ],
         "override": true,
-        "__scriptTabs": "press"
+        "__scriptTabs": "press",
+        "__collapse": true
       },
       "children": {
         "true": [
@@ -32,7 +33,7 @@
               },
               "y": {
                 "type": "number",
-                "value": 14
+                "value": 15
               },
               "direction": "",
               "fadeSpeed": "2"
@@ -42,8 +43,28 @@
         ]
       },
       "id": "7cf2da73-6e8e-4a0f-9fef-828bee15cb3f"
+    },
+    {
+      "command": "EVENT_SET_INPUT_SCRIPT",
+      "args": {
+        "input": [
+          "b"
+        ],
+        "override": true,
+        "__scriptTabs": "press"
+      },
+      "children": {
+        "true": []
+      },
+      "id": "aea5d6b0-60ee-4be1-af71-9645f36d8148"
     }
   ],
-  "leaveScript": [],
+  "leaveScript": [
+    {
+      "command": "EVENT_STOP",
+      "args": {},
+      "id": "9bd2f91d-cb87-4c3a-9054-4e1f48a4e879"
+    }
+  ],
   "_index": 0
 }
