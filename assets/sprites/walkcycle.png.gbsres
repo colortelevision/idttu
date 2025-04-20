@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "8d5ccd8e-8266-49b8-9f5e-9b25caef3d17",
+  "name": "walkcycle",
+  "symbol": "sprite_walkcycle",
+  "width": 64,
+  "height": 133,
+  "states": [
+    {
+      "id": "a2c90492-3027-4f73-b918-baba0d74249e",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "2710c477-415a-4efb-b6bb-677867d42163",
+          "frames": [
+            {
+              "id": "f368b173-73d1-4727-a385-2d9ea178f119",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "fdfc9d3d-85a6-4977-89d0-8a85292bd03e",
+          "frames": [
+            {
+              "id": "943d736a-9ac8-4d5a-9108-3d8c5fc97799",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a4cd9f98-4b4e-4b32-b64c-a548c62b37ee",
+          "frames": [
+            {
+              "id": "774019be-4ba3-41fd-b470-06528f698762",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "132a03df-d474-4ef5-9236-1f076c1d401a",
+          "frames": [
+            {
+              "id": "27604a7f-09e6-49bd-8463-576d33a335fe",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "4d450fef-2d5f-4a90-bbce-67b0a1ceab05",
+          "frames": [
+            {
+              "id": "2bc9f086-ab1d-4a87-9d70-c811e8033650",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "19340397-2db9-417e-889c-f25e57b29947",
+          "frames": [
+            {
+              "id": "f83196e0-1a6d-45b5-8ccf-857476fdfebb",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7d1dbe46-59a6-462d-b8b9-fafba9b9ae3d",
+          "frames": [
+            {
+              "id": "e8cae959-b2f0-4c9c-b994-5e2d872ad205",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "13efc33b-75ca-4771-b02e-81b8fba7d97c",
+          "frames": [
+            {
+              "id": "365b4208-2f46-4446-a133-5e656fc64ab4",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "walkcycle.png",
+  "checksum": "002d0bd4ea46dbe337789e5b4e440dbe7811c374"
+}
