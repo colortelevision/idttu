@@ -8,5 +8,6 @@
   "imageWidth": 160,
   "imageHeight": 384,
   "tileColors": "",
-  "filename": "002.png"
+  "filename": "002.png",
+  "autoColor": true
 }

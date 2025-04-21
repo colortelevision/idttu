@@ -1,0 +1,22 @@
+{
+  "_resourceType": "scene",
+  "id": "d22404d3-2b05-4895-a621-3ac2eeead899",
+  "_index": 24,
+  "name": "Scene 22",
+  "backgroundId": "21aa8b29-9893-4912-b1d4-c76edeb76de8",
+  "tilesetId": "",
+  "width": 20,
+  "height": 48,
+  "type": "TOPDOWN",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_25",
+  "x": 3152,
+  "y": 336,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}

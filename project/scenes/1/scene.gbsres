@@ -1,0 +1,63 @@
+{
+  "_resourceType": "scene",
+  "id": "8d3b7620-09ac-45f8-9809-0c3d33b08485",
+  "_index": 26,
+  "name": "1",
+  "backgroundId": "2a45d325-965c-4367-97ee-d43441d91392",
+  "tilesetId": "",
+  "width": 60,
+  "height": 24,
+  "type": "TOPDOWN",
+  "paletteIds": [
+    "default-sprite",
+    "dfb03399-454e-44a2-a116-4dddedb32f82",
+    "default-bg-4",
+    null,
+    null,
+    "c4bde447-e2ae-456a-aeea-844e51ca89e7"
+  ],
+  "spritePaletteIds": [],
+  "collisions": "00!0f!00!0f32+00!0f!00!0f!00!0f!002+0f!00!0f2f+007+0f!003+0f!00!0f7+0025+0f3+006+0f2+00!0f!00!0f!00!0f!00!0f!003+0f2+0012+0f2+00f+0f4+006+0f3+002+0f!00!0f!00!0f3+00!0f2+0012+0f2+00f+0f4+006+0f2+003+0f!00!0f!00!0f!003+0f16+00!0ff+009+0f!004+0f!00!0f!00!0f!003+0f26+00e+0f!00!0f!00!0f!003+0f2+0012+0f2+001e+0f!00!0f!00!0f6+0012+0f2+001e+0f!00!0f!00!0f!003+0f2+0012+0f2+001e+0f!00!0f!00!0f!003+0f2+0032+0f!00!0f!00!0f!003+0f2+0032+0f!00!0f!00!0f6+0032+0f!00!0f!00!0f!003+0f2+0032+0f!00!0f!00!0f!003+0f2+0032+0f!00!0f!00!0f!003+0f2+0032+0f!00!0f!00!0f6+0012+0f12+00e+0f!00!0f!00!0f!003+0f2+0012+0f2+00f+0f!00e+0f!00!0f!00!0f!003+0f2+0012+0f2+00f+0f!009+0f2+003+0f!00!0f!00!0f!003+0f2+0012+0f2+00f+0f4+006+0f!00!0f!002+0f!00!0f!00!0f3+00!0f2+0012+0f2+00f+0f4+006+0f!002+0f!00!0f!00!0f!005+0f!0013+0f2+0010+0f3+006+0f!004+0f!00!0f39+003+0f30+00!0f!00!0f!00!0f!00!0f!00!",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_27",
+  "x": 2256,
+  "y": 112,
+  "script": [
+    {
+      "command": "EVENT_MUSIC_PLAY",
+      "args": {
+        "musicId": "944cdb01-d13d-4790-ba12-78258d07e917"
+      },
+      "id": "0365b442-223e-45de-873b-4df9487a5f1f"
+    },
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "WHY WOULD YOU SHOW UP TO\nTHE FUNERAL?",
+          "THAT WAS YOUR SISTER'S\nHUSBAND WHO DIED!!"
+        ],
+        "__section": "text",
+        "avatarId": "",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "70e3f741-5ddd-48c3-862d-845c66d36d9b"
+    }
+  ],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}

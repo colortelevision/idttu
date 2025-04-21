@@ -8,5 +8,6 @@
   "imageWidth": 1280,
   "imageHeight": 512,
   "tileColors": "",
-  "filename": "egypt1-1p2.png"
+  "filename": "egypt1-1p2.png",
+  "autoColor": false
 }

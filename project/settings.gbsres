@@ -21,14 +21,14 @@
     "default-bg-3"
   ],
   "defaultSpritePaletteIds": [
-    "dfb03399-454e-44a2-a116-4dddedb32f82",
+    "41d0571e-0f36-494a-b085-dfdf8276ff91",
     "default-bg-1",
     "default-bg-2",
     "default-ui",
     "default-sprite",
     "default-bg-6",
     "default-bg-5",
-    "default-bg-4"
+    "default-bg-1"
   ],
   "defaultSpritePaletteId": "default-sprite",
   "defaultUIPaletteId": "default-ui",
