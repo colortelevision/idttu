@@ -19,7 +19,7 @@
         ],
         "override": true,
         "__scriptTabs": "press",
-        "__collapse": true
+        "__collapse": false
       },
       "children": {
         "true": [
@@ -29,7 +29,7 @@
               "sceneId": "c2f34b56-2040-425e-b703-730ea7cd2a00",
               "x": {
                 "type": "number",
-                "value": 0
+                "value": 3
               },
               "y": {
                 "type": "number",
