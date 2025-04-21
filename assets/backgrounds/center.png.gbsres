@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "75cf8a33-f38d-4aad-9faa-174878fd9a00",
+  "name": "center",
+  "symbol": "bg_center",
+  "width": 36,
+  "height": 28,
+  "imageWidth": 288,
+  "imageHeight": 224,
+  "tileColors": "",
+  "filename": "center.png"
+}
