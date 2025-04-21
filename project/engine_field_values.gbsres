@@ -15,11 +15,11 @@
     },
     {
       "id": "plat_walk_acc",
-      "value": 180
+      "value": 143
     },
     {
       "id": "plat_run_acc",
-      "value": 281
+      "value": 391
     },
     {
       "id": "plat_dec",
@@ -31,15 +31,19 @@
     },
     {
       "id": "plat_grav",
-      "value": 1148
+      "value": 5961
     },
     {
       "id": "plat_hold_grav",
-      "value": 3072
+      "value": 1306
     },
     {
       "id": "plat_max_fall_vel",
       "value": 19183
+    },
+    {
+      "id": "plat_walk_vel",
+      "value": 5740
     }
   ]
 }
